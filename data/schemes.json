@@ -1,0 +1,117 @@
+[
+    {
+  "scheme_name": "Skill Loan Scheme",
+
+  "ministry": "Ministry of Skill Development and Entrepreneurship",
+
+  "details": "The Skill Loan Scheme was launched in July 2015 to provide institutional credit to individuals for skill development courses aligned to National Occupations Standards and Qualification Packs and leading to a certificate/diploma/degree by training institutes as per National Skill Qualification Framework (NSQF),This scheme is applicable to all member banks of the Indian Banks’ Association (IBA) and any other banks and financial institutions as may be advised by the RBI. The scheme provides broad guidelines to the banks for operationalizing the skilling loan scheme.",
+
+  "benefits": [
+    "Loan amount up to Rs 50,000 - repayment up to 3 years",
+    "Loans between Rs 50,000 and Rs 1 lakh - repayment up to 5 years",
+    "Loans above Rs 1 lakh - repayment up to 7 years",
+    "Interest Rate: MCLR + up to 1.5%",
+    "Moratorium: Duration of the course"
+],
+  "eligibility": "A student who has secured admission in a course run by Industrial Training Institutes (ITIs), Polytechnics or in a school recognized by Central or State education Boards or in a college affiliated to a recognized university, training partners affiliated to National Skill Development Corporation (NSDC) / Sector Skill Councils, State Skill Mission, State Skill Corporation",
+
+  "application_process": "Interested candidates need to register on the Vidya Kaushal portal.",
+
+ "documents_required": [
+    "Proof of Identity",
+    "Proof of Address",
+    "Proof of Income"
+],
+
+ "faq": [
+    "What is the maximum loan one can avail in the scheme?",
+    "What is MCLR under rate of interest?",
+    "What is moratorium period?"
+],
+
+  "tags": [
+    "Industrial Training Institute (ITI)",
+    "Apprentice",
+    "Skill Development",
+    "Student"
+  ],
+  "source_url": "https://www.myscheme.gov.in/...",
+
+  "source": "MyScheme"
+},
+{
+  
+  "scheme_name": "Stand-Up India",
+
+  "ministry": "Ministry of Finance",
+
+  "details": "A scheme by Ministry of Finance for financing SC/ST and/or Women Entrepreneurs by facilitating bank loans for setting up a greenfield project enterprise in manufacturing, services, trading sector and activities allied to agriculture. The objective of this scheme is to facilitate bank loans between Rs. 10 lakh and Rs. 1 crore to at least one Scheduled Caste (SC) or Scheduled Tribe (ST) borrower and at least one woman borrower per bank branch for setting up a greenfield enterprise. In case of non-individual enterprises, at least 51% of the shareholding and controlling stake should be held by either an SC/ST or Woman entrepreneur.",
+
+  "benefits": [
+    "Composite loan (term loan and working capital) between Rs. 10 lakh and Rs. 100 lakh.",
+    "RuPay debit card issued for borrower convenience.",
+    "SIDBI provides hand-holding support through agencies engaged in training, skill development, mentoring, project report preparation and application support.",
+    "Support for work sheds, utility support services and subsidy schemes."
+  ],
+
+  "eligibility": [
+    "Finance is provided for Greenfield Enterprises.",
+    "Male applicants must belong to SC/ST category.",
+    "Applicant must be at least 18 years old.",
+    "Applicant should not be a defaulter of any bank or financial institution.",
+    "In non-individual enterprises, at least 51% ownership and controlling stake should be held by SC/ST or Women entrepreneurs."
+  ],
+
+  "application_process": [
+    "Visit the Stand-Up India portal.",
+    "Fill business location details.",
+    "Select category (SC, ST or Woman) and ownership details.",
+    "Provide proposed business details and loan requirement.",
+    "Enter business experience information.",
+    "Specify whether hand-holding support is required.",
+    "Fill personal and enterprise details.",
+    "Submit registration form.",
+    "Financial institution contacts applicant for further loan processing."
+  ],
+
+  "documents_required": [
+    "Proof of Identity (Voter ID, Passport, Driving License, PAN Card etc.)",
+    "Proof of Residence",
+    "Proof of Business Address",
+    "Declaration that applicant is not a bank defaulter",
+    "Memorandum and Articles of Association / Partnership Deed",
+    "Assets and liabilities statement",
+    "Income tax returns",
+    "Rent agreement (if applicable)",
+    "SSI / MSME registration (if applicable)",
+    "Projected balance sheets",
+    "Project report"
+  ],
+
+  "faq": [
+    "What is the nature and size of the loan under the Stand-Up India Scheme?",
+    "How much will be the interest rate for the loan?",
+    "By when am I expected to repay the loan?",
+    "Who are the eligible lending institutions for extending loans under the scheme?",
+    "What is Hand-holding Support?",
+    "How do I get hand-holding support?",
+    "What activities are covered under Stand-Up India?",
+    "What activities allied to agriculture are eligible?",
+    "What is the purpose of the loan under Stand-Up India?",
+    "What is the difference between Stand-Up India and Start-Up India?"
+  ],
+
+  "tags": [
+    "Business",
+    "Entrepreneur",
+    "Finance",
+    "Loan"
+  ],
+
+  "source_url": "https://www.myscheme.gov.in/schemes/sui",
+
+  "source": "MyScheme"
+}
+
+
+]
